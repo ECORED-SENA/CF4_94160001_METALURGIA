@@ -250,14 +250,88 @@
     
     .fondo-personalizado-1.f2
       .fondo-personalizado-1__contenido
-        .row.align-items-center
+        .row.align-items-center.mb-5
           .col-lg-8
             p.mb-0 Los aceros se aplican en una amplia variedad de industrias y productos gracias a sus propiedades como resistencia y durabilidad. Se emplean en la construcción de estructuras, maquinaria, automóviles, y elementos de uso cotidiano como utensilios de cocina y electrodomésticos. También son esenciales en la fabricación de componentes industriales, herramientas de corte, piezas de maquinaria pesada, y productos sanitarios y decorativos. Cada tipo de acero, como el acero al carbono, los aceros aleados con cromo, níquel o molibdeno, y los aceros inoxidables, se utiliza según sus características específicas para satisfacer distintas necesidades.
           .col-lg-4.order-first.order-lg-last
             figure.mb-4.mb-lg-0
               img.mx-auto(src="@/assets/curso/temas/15.png",style="max-width: 400px;")
 
-        p(style="color: red;") Falta slyder aqui
+        .fondo-personalizado-1.f3.mb-5(data-aos="fade-up")
+          .fondo-personalizado-1__contenido.py-5
+            .bg-white.p-4.borde-20
+              LineaTiempoC.linea-tiempo-c-1.color-acento-contenido(text-small)
+                .row.justify-content-center.py-5(titulo="")
+                  .col-lg-6.mb-4.mb-lg-0
+                    h4.mb-4.mb-lg-5 Aceros al carbono
+                    p.mb-0 Se emplean en una amplia variedad de productos como láminas, alambres, varillas, clavos, tornillos, arandelas, abrazaderas, varillas de refuerzo para concreto, planchas, secciones estructurales de acero, ejes, engranajes, baldes, cajones, cerraduras, bisagras, tuberías para fluidos no corrosivos, partes de resistencias eléctricas, reactancias, núcleos de motores eléctricos, armaduras de protección de cables de datos, tubos estructurales, máquinas, componentes móviles de automóviles y camiones (como ejes y parantes), cascos de buques, tubos para bicicletas, alfileres y cerraduras de puertas.
+                
+                  .col-lg-4
+                    figure
+                      img.mx-auto(src="@/assets/curso/temas/53.png",style="max-width: 408px;")
+                .row.justify-content-center.py-5(titulo="")
+                  .col-lg-6.mb-4.mb-lg-0
+                    h4.mb-4.mb-lg-5 Aceros al manganeso
+                    p.mb-0 Utilizados principalmente en sectores como el movimiento de tierra, minería, perforación de pozos, siderurgia, la industria ferroviaria y la fabricación de productos de cemento y arcilla. Se encuentran en equipos como molinos, dientes de pala, bombas para manejar grava, martillos, rejillas para el reciclaje de automóviles, carriles, cruzamientos de vías, piezas de machacadores, canales de evacuación de viruta, protecciones de máquinas, molinos, cajas de caudales, blindajes de máquinas granalladoras, plataformas vibratorias, barras de desgaste en transportadores, piezas para trituradoras, ruedas dentadas, cadenas de transportadores, tablillas y carcazas.
+                  .col-lg-4
+                    figure
+                      img.mx-auto(src="@/assets/curso/temas/54.png",style="max-width: 408px;")
+                .row.justify-content-center.py-5(titulo="")
+                  .col-lg-6.mb-4.mb-lg-0
+                    h4.mb-4.mb-lg-5 Aceros cromo-níquel
+                    p.mb-0 Se emplean en equipamientos sanitarios públicos, utensilios de cocina y aceros de cementación.
+                  .col-lg-4
+                    figure
+                      img.mx-auto(src="@/assets/curso/temas/55.png",style="max-width: 408px;")
+                .row.justify-content-center.py-5(titulo="")
+                  .col-lg-6.mb-4.mb-lg-0
+                    h4.mb-4.mb-lg-5 Aceros cromo-molibdeno
+                    p.mb-0 Utilizados en la construcción de maquinaria y en la industria sanitaria.
+                  .col-lg-4
+                    figure
+                      img.mx-auto(src="@/assets/curso/temas/56.png",style="max-width: 408px;")
+                .row.justify-content-center.py-5(titulo="")
+                  .col-lg-6.mb-4.mb-lg-0
+                    h4.mb-4.mb-lg-5 Aceros cromo-níquel-molibdeno
+                    p.mb-0 Son utilizados para fabricar productos como láminas, alambres, varillas, clavos, tornillos, arandelas, abrazaderas, varillas de refuerzo, planchas, secciones estructurales, ejes, engranajes, baldes, cajones, cerraduras, bisagras, tuberías para fluidos no corrosivos, componentes de resistencias eléctricas, reactancias, núcleos de motores eléctricos, armaduras para cables de datos, tubos estructurales, máquinas, piezas móviles de automóviles y camiones, cascos de buques, tubos para bicicletas, alfileres y cerraduras de puertas.
+                  .col-lg-4
+                    figure
+                      img.mx-auto(src="@/assets/curso/temas/57.png",style="max-width: 408px;")
+                .row.justify-content-center.py-5(titulo="")
+                  .col-lg-6.mb-4.mb-lg-0
+                    h4.mb-4.mb-lg-5 Aceros inoxidables
+                    p.mb-0 Con un contenido de cromo superior al 12%, se utilizan en el hogar (cubertería y utensilios de cocina), la industria (plantas químicas), la construcción, mobiliario urbano, electrodomésticos y sistemas de escape de vehículos, debido a su resistencia a la oxidación y su superficie brillante. En arquitectura, se utilizan frecuentemente con fines decorativos. También se emplean en la fabricación de instrumentos y equipos quirúrgicos, y para fijar o reemplazar huesos rotos debido a su resistencia a los fluidos corporales.
+                  .col-lg-4
+                    figure
+                      img.mx-auto(src="@/assets/curso/temas/58.png",style="max-width: 408px;")
+                .row.justify-content-center.py-5(titulo="")
+                  .col-lg-6.mb-4.mb-lg-0
+                    h4.mb-4.mb-lg-5 Aceros al cromo
+                    p.mb-0 Utilizados principalmente para la fabricación de láminas debido a su alta dureza.
+                  .col-lg-4
+                    figure
+                      img.mx-auto(src="@/assets/curso/temas/59.png",style="max-width: 408px;")
+                .row.justify-content-center.py-5(titulo="")
+                  .col-lg-6.mb-4.mb-lg-0
+                    h4.mb-4.mb-lg-5 Aceros cromo-vanadio
+                    p.mb-0 Se emplean en la fabricación de muelles, resortes y bisagras, siendo especialmente comunes en la industria automovilística y ferretera.
+                  .col-lg-4
+                    figure
+                      img.mx-auto(src="@/assets/curso/temas/60.png",style="max-width: 408px;")
+                .row.justify-content-center.py-5(titulo="")
+                  .col-lg-6.mb-4.mb-lg-0
+                    h4.mb-4.mb-lg-5 Aceros al níquel
+                    p.mb-0 Son usados en procesos de cementación y en piezas que requieren alta resistencia.
+                  .col-lg-4
+                    figure
+                      img.mx-auto(src="@/assets/curso/temas/61.png",style="max-width: 408px;")
+                .row.justify-content-center.py-5(titulo="")
+                  .col-lg-6.mb-4.mb-lg-0
+                    h4.mb-4.mb-lg-5 Aceros al molibdeno-tungsteno #[em (wolframio)]
+                    p.mb-0 Estos aceros son ideales para la fabricación de herramientas de corte.
+                  .col-lg-4
+                    figure
+                      img.mx-auto(src="@/assets/curso/temas/62.png",style="max-width: 408px;")
     
     Separador
 
@@ -279,47 +353,89 @@
       .cont-text 
         h3 Propiedades
 
-    p.mb-0 El punto de fusión de las fundiciones varía entre 1100 y 1450 °C, según su tipo, y su peso específico oscila entre 6.7 y 6.8 gramos por centímetro cúbico.
+    p.mb-5 El punto de fusión de las fundiciones varía entre 1100 y 1450 °C, según su tipo, y su peso específico oscila entre 6.7 y 6.8 gramos por centímetro cúbico.
 
-    p(style="color:red;") Tabs aqui
+    .fondo-personalizado-1.bottom-1.top-1.f4
+      .fondo-personalizado-1__contenido
+        TabsB.color-acento-contenido.tabs-p-1(data-aos="zoom-in-out")
+          .fondo-color-sistema-p.py-5.px-4.px-lg-5(titulo="Fundición blanca" :icono="require('@/assets/curso/temas/44.svg')")
+            .row.justify-content-center
+              .col-lg-6
+                h4.mb-4 Fundición blanca
+                p.mb-0 Contiene bajos niveles de carbono (1.8 a 3.6%) en forma de cementita y un mínimo de silicio (0.5 a 2%), además de manganeso, fósforo y azufre. Su alta velocidad de enfriamiento le confiere mayor dureza que la fundición gris. Su punto de fusión oscila entre 1100 y 1200 °C y debe su nombre a la apariencia blanca en la superficie de rotura.
+              .col-lg-5.order-first.order-lg-last
+                figure.mb-4.mb-lg-0
+                  img.mx-auto(src="@/assets/curso/temas/43.png",style="max-width: 457px;")
+          .fondo-color-sistema-p.py-5.px-4.px-lg-5(titulo="Fundición gris" :icono="require('@/assets/curso/temas/46.svg')")
+            .row.justify-content-center
+              .col-lg-6
+                h4.mb-4 Fundición gris
+                p.mb-0 También conocida como hierro fundido o hierro colado, contiene carbono en forma de grafito, con un contenido de 2.5% a 4% de carbono y de 1% a 3% de silicio.
+              .col-lg-5.order-first.order-lg-last
+                figure.mb-4.mb-lg-0
+                  img.mx-auto(src="@/assets/curso/temas/45.png",style="max-width: 457px;")
+          .fondo-color-sistema-p.py-5.px-4.px-lg-5(titulo="Fundición nodular" :icono="require('@/assets/curso/temas/47.svg')")
+            .row.justify-content-center
+              .col-lg-6
+                h4.mb-4 Fundición nodular
+                p.mb-0 Presenta grafito en forma esférica o nodular. Su composición incluye 3% a 4% de carbono, 1.8% a 2.8% de silicio, 0.15% a 0.9% de manganeso, un máximo de 0.1% de fósforo, y hasta 0.3% de azufre. Se obtiene a partir de fundición gris, con la adición de magnesio o cerio para formar la estructura nodular, sin requerir tratamiento térmico posterior.
+              .col-lg-5.order-first.order-lg-last
+                figure.mb-4.mb-lg-0
+                  img.mx-auto(src="@/assets/curso/temas/48.png",style="max-width: 457px;")
+          .fondo-color-sistema-p.py-5.px-4.px-lg-5(titulo="Fundición maleable" :icono="require('@/assets/curso/temas/50.svg')")
+            .row.justify-content-center
+              .col-lg-6
+                h4.mb-4 Fundición maleable
+                p.mb-0 Presenta grafito en forma esférica o nodular. Su composición incluye 3% a 4% de carbono, 1.8% a 2.8% de silicio, 0.15% a 0.9% de manganeso, un máximo de 0.1% de fósforo, y hasta 0.3% de azufre. Se obtiene a partir de fundición gris, con la adición de magnesio o cerio para formar la estructura nodular, sin requerir tratamiento térmico posterior.
+              .col-lg-5.order-first.order-lg-last
+                figure.mb-4.mb-lg-0
+                  img.mx-auto(src="@/assets/curso/temas/49.png",style="max-width: 457px;")
+          .fondo-color-sistema-p.py-5.px-4.px-lg-5(titulo="Fundición aleada" :icono="require('@/assets/curso/temas/52.svg')")
+            .row.justify-content-center
+              .col-lg-6
+                h4.mb-4 Fundición aleada
+                p.mb-0 Contiene elementos aleantes como cobre, níquel, molibdeno, cromo y vanadio, que mejoran las propiedades mecánicas y tecnológicas de las fundiciones ordinarias. La adición de estos elementos influye en la velocidad de grafitización, otorgando características y aplicaciones específicas según los elementos y porcentajes utilizados.
+              .col-lg-5.order-first.order-lg-last
+                figure.mb-4.mb-lg-0
+                  img.mx-auto(src="@/assets/curso/temas/51.png",style="max-width: 457px;")
 
-    .titulo-decorativo.mq-p-1.my-5
-      .cont-figura
-        img(src="@/assets/curso/temas/img-tit-dec.svg")
-      .cont-text 
-        h3 La conservación del medio ambiente en la siderurgia
-    
-    .row.align-items-center.mb-5
-      .col-md-10
-        p.mb-0 La conservación del medio ambiente es una prioridad para las empresas, que buscan un uso racional de los recursos naturales y la protección de las personas. Sin embargo, en el caso de la industria siderúrgica, los desafíos ambientales son significativos:
-      .col-md-2.order-first.order-md-last
-        figure.mb-4.mb-md-0
-          img.mx-auto(src="@/assets/curso/temas/37.svg",style="max-width: 93px;")
-    
-    .row.justify-content-center
-      .col-lg-5.mb-4
-        .fondo-color-sistema-m.h-100.borde-17
-          .position-relative.d-flex.justify-content-center.mb-5
-            figure.mb-4.mb-lg-0
-              img.mx-auto(src="@/assets/curso/temas/38.png")
-            .texto-p-1.px-3
-              h4.mb-0.p-1 Emisiones de CO₂
+        .titulo-decorativo.mq-p-1.my-5.mb-4
+          .cont-figura
+            img(src="@/assets/curso/temas/img-tit-dec.svg")
+          .cont-text 
+            h3 La conservación del medio ambiente en la siderurgia
+        
+        .row.align-items-center.mb-5
+          .col-md-10
+            p.mb-0 La conservación del medio ambiente es una prioridad para las empresas, que buscan un uso racional de los recursos naturales y la protección de las personas. Sin embargo, en el caso de la industria siderúrgica, los desafíos ambientales son significativos:
+          .col-md-2.order-first.order-md-last
+            figure.mb-4.mb-md-0
+              img.mx-auto(src="@/assets/curso/temas/37.svg",style="max-width: 93px;")
+        
+        .row.justify-content-center
+          .col-lg-5.mb-4
+            .fondo-color-sistema-m.h-100.borde-17
+              .position-relative.d-flex.justify-content-center.mb-5
+                figure.mb-4.mb-lg-0
+                  img.mx-auto(src="@/assets/curso/temas/38.png")
+                .texto-p-1.px-3
+                  h4.mb-0.p-1 Emisiones de CO₂
 
-          p.p-4 Las empresas siderúrgicas son responsables de aproximadamente el 27 % de las emisiones de CO₂ a nivel mundial. Sin embargo, la contaminación generada por los hornos de arco eléctrico es menor en comparación con otros métodos.
-      .col-lg-5.mb-4
-        .fondo-color-sistema-m.h-100.borde-17
-          .position-relative.d-flex.justify-content-center.mb-5
-            figure.mb-4.mb-lg-0
-              img.mx-auto(src="@/assets/curso/temas/39.png")
-            .texto-p-1.px-3
-              h4.mb-0.p-1 Tipos de siderurgia y su impacto
+              p.p-4 Las empresas siderúrgicas son responsables de aproximadamente el 27 % de las emisiones de CO₂ a nivel mundial. Sin embargo, la contaminación generada por los hornos de arco eléctrico es menor en comparación con otros métodos.
+          .col-lg-5.mb-4
+            .fondo-color-sistema-m.h-100.borde-17
+              .position-relative.d-flex.justify-content-center.mb-5
+                figure.mb-4.mb-lg-0
+                  img.mx-auto(src="@/assets/curso/temas/39.png")
+                .texto-p-1.px-3
+                  h4.mb-0.p-1 Tipos de siderurgia y su impacto
 
-          p.p-4.pb-3 #[b Siderurgia integral]. Cubre todo el proceso, desde la extracción de minerales, lo que genera una mayor cantidad de emisiones y residuos.
-          p.p-4.pt-0 #[b Siderurgia no integral]. Utiliza hornos eléctricos y chatarra como materia prima, lo que reduce las emisiones de CO₂.
+              p.p-4.pb-3 #[b Siderurgia integral]. Cubre todo el proceso, desde la extracción de minerales, lo que genera una mayor cantidad de emisiones y residuos.
+              p.p-4.pt-0 #[b Siderurgia no integral]. Utiliza hornos eléctricos y chatarra como materia prima, lo que reduce las emisiones de CO₂.
 
     p.my-4 Los desafíos ambientales en la siderurgia son: 
 
-    .row.align-items-center
+    .row.align-items-center.mb-5
       .col-lg-3
         figure.mb-4.mb-lg-0
           img.mx-auto(src="@/assets/curso/temas/40.png",style="max-width: 296px;")
@@ -334,6 +450,42 @@
           .div(titulo="Captación de polvo")
             .ps-md-5.ms-md-3
               p La instalación de sistemas de captación de polvo con filtros de mangas es una solución eficaz para minimizar la emisión de partículas contaminantes en la atmósfera.
+    
+    p.mb-3 Los avances tecnológicos y sostenibilidad son:
+
+    .fondo-personalizado-1.f4
+      .fondo-personalizado-1__contenido.pt-3.pb-4
+        .row.align-items-center.mb-5
+          .col-lg-6
+            figure.mb-4.mb-lg-0
+              img.mx-auto(src="@/assets/curso/temas/41.png",style="max-width: 610px;")
+          .col-lg-6
+            .fondo-color-sistema-o.p-4.borde-17.mb-4
+              h4.mb-4 Sustitución de materiales
+              p.mb-5 Se trabaja en el desarrollo de métodos para reemplazar el coque por carbón y utilizar mineral en trozos, en lugar de aglomerados de sinterización o pellets, con el fin de reducir el impacto ambiental.
+            .fondo-color-sistema-o.p-4.borde-17
+              h4.mb-4 Optimización de procesos
+              p.mb-4 Se busca mejorar la fundición de las piezas para el laminado, ajustando las dimensiones del producto final, lo que permite:
+              ul.lista-ul
+                li.d-flex.mb-0
+                  i.fas.fa-check-circle.c-color-acento-contenido
+                  span Reducir el consumo de energía.
+                li.d-flex.mb-0
+                  i.fas.fa-check-circle.c-color-acento-contenido
+                  span Disminuir la cantidad de residuos.
+                li.d-flex.mb-0
+                  i.fas.fa-check-circle.c-color-acento-contenido
+                  span Acortar la cadena de producción y minimizar las emisiones generadas.
+        
+        .row.justify-content-center.mb-5
+          .col-lg-10
+            .fondo-color-sistema-m.p-4.px-lg-5.borde-15.sombra-p-2
+              .row.align-items-center
+                .col-md-auto
+                  figure.mb-4.mb-md-0
+                    img.mx-auto(src="@/assets/curso/temas/42.svg",style="max-width: 76px;")
+                .col
+                  p.mb-0 Estas acciones reflejan el compromiso de la industria siderúrgica con la sostenibilidad y la reducción de su huella ambiental.
 
 
 

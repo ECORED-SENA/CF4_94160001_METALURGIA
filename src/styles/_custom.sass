@@ -65,6 +65,13 @@
   background-color: $color-sistema-m
 .fondo-color-sistema-n
   background-color: $color-sistema-n
+.fondo-color-sistema-o
+  background-color: $color-sistema-o
+.fondo-color-sistema-p
+  background-color: $color-sistema-p
+
+.c-color-acento-contenido
+  color: $color-acento-contenido
 
 //bordes
 .no-borde
@@ -163,6 +170,12 @@
   &.pos-center
     &:before
       background-position: center
+  &.top-1
+    &:before
+      top: 150px
+  &.bottom-1
+    &:before
+      bottom: 250px
   &.f1
     &:before
       background-image: url(../assets/curso/temas/3.png)
@@ -173,6 +186,10 @@
   &.f3
     &:before
       background-image: url(../assets/curso/temas/18.png)
+  &.f4
+    &:before
+      background: rgb(243,232,251)
+      background: linear-gradient(180deg, rgba(243,232,251,0) 0%, rgba(243,232,251,1) 25%, rgba(243,232,251,1) 75%, rgba(243,232,251,0) 100%)
   &__contenido
     position: relative
 
@@ -238,6 +255,11 @@
   -moz-box-shadow: 0px 3px 20px 0px rgba(15,31,51,0.24)
   box-shadow: 0px 3px 20px 0px rgba(15,31,51,0.24)
 
+.sombra-p-2
+  -webkit-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.16)
+  -moz-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.16)
+  box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.16)
+
 //acordion
 .acordion-personalizado-1
   .tarjeta
@@ -295,3 +317,21 @@
     i
       font-size: 1.2rem
       color: $color-sistema-texto !important
+
+//tabs
+.tabs-p-1
+  border-bottom: none
+  .tabs-b__tab--active
+    background-color: transparent !important
+  .tabs-b__tab
+    border-right: 3px solid #AFAFAF
+    &:last-child
+      border-right: none
+    &:first-child
+      border-left: none
+    background-color: #F2F4F5
+    border-bottom: none
+
+.linea-tiempo-c-1
+  .linea-tiempo-c__header__btn--left,.linea-tiempo-c__header__btn--right
+    background-color: $color-acento-botones
