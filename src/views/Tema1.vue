@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
       h1 Aceros
@@ -12,21 +12,21 @@
         .row.mb-4
           .col-lg-8
             .fondo-color-sistema-j.p-4.p-md-5.borde-14.mb-4
-              p.mb-0 El acero es, esencialmente, una aleación de hierro y carbono (entre un 0,05 % y menos de un 2 % de carbono). A veces, se añaden otros elementos de aleación, como cromo (Cr) o níquel (Ni), para cumplir con fines específicos. Dado que el acero está compuesto principalmente de hierro altamente refinado (más del 98 %), su fabricación comienza con la reducción del hierro (producción de arrabio), que posteriormente se transforma en acero.
+              p.mb-0(data-aos="fade-right") El acero es, esencialmente, una aleación de hierro y carbono (entre un 0,05 % y menos de un 2 % de carbono). A veces, se añaden otros elementos de aleación, como cromo (Cr) o níquel (Ni), para cumplir con fines específicos. Dado que el acero está compuesto principalmente de hierro altamente refinado (más del 98 %), su fabricación comienza con la reducción del hierro (producción de arrabio), que posteriormente se transforma en acero.
 
-            p.mb-4 El acero presenta un color blanco grisáceo, y su punto de fusión varía entre 1300 y 1530 grados Celsius, dependiendo del porcentaje de carbono y otros elementos de aleación.
+            p.mb-4(data-aos="fade") El acero presenta un color blanco grisáceo, y su punto de fusión varía entre 1300 y 1530 grados Celsius, dependiendo del porcentaje de carbono y otros elementos de aleación.
 
-            p.mb-0 A continuación, se presentan algunas de las principales propiedades del acero que lo hacen esencial en diversas aplicaciones industriales:
+            p.mb-0(data-aos="fade-right") A continuación, se presentan algunas de las principales propiedades del acero que lo hacen esencial en diversas aplicaciones industriales:
 
           .col-lg-4.order-first.order-lg-last
             figure.mb-4.mb-lg-0
               img.mx-auto(src="@/assets/curso/temas/4.png",style="max-width: 400px;")
         
         .row.align-items-center
-          .col-lg-4
+          .col-lg-4(data-aos="fade-right")
             figure.mb-4.mb-lg-0
               img.mx-auto(src="@/assets/curso/temas/11.png",style="max-width: 398px;")
-          .col-lg-8
+          .col-lg-8(data-aos="fade-left")
             SlyderF.slider-personalizado-2(columnas="col-lg-6 py-4",data-aos="flip-up")
               .sombra-p-1.p-4.borde-14.h-100.bg-white
                 figure.mb-3
@@ -65,19 +65,19 @@
                   h4.mb-0.p-1 Propiedades magnéticas y corrosión
                 p.text-center El acero posee propiedades magnéticas, pero su principal desventaja es su tendencia a la corrosión, que se mitiga mediante aleaciones como el acero inoxidable.
     
-    .titulo-decorativo.my-5
+    .titulo-decorativo.my-5(data-aos="fade-up")
       .cont-figura
         img(src="@/assets/curso/temas/img-tit-dec.svg")
       .cont-text 
         h3 Tipos de acero
     
-    p.mb-5 Existen diversos tipos de acero, cada uno con características específicas que los hacen adecuados para diferentes aplicaciones industriales. A continuación, se presenta una breve descripción de los principales tipos de acero y sus usos:
+    p.mb-5(data-aos="fade-up") Existen diversos tipos de acero, cada uno con características específicas que los hacen adecuados para diferentes aplicaciones industriales. A continuación, se presenta una breve descripción de los principales tipos de acero y sus usos:
 
     .row.align-items-center.mb-4
-      .col-lg-4
+      .col-lg-4(data-aos="fade-right")
         figure.mb-4.mb-lg-0
           img.mx-auto(src="@/assets/curso/temas/13.png",style="max-width: 400px;")
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         AcordionA.acordion-personalizado-1.mb-0(tipo="a" clase-tarjeta="tarjeta")
           .div(titulo="Aceros al carbono")
             .ps-md-5.ms-md-3
@@ -94,10 +94,10 @@
 
     Separador
 
-    #t_1_1.titulo-segundo.color-acento-contenido
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Influencia de los elementos de aleación en el acero
     
-    .row.align-items-center.mb-5
+    .row.align-items-center.mb-5(data-aos="zoom-in-out")
       .col-lg-8
         p.mb-4 Los aceros contienen elementos de aleación que mejoran sus características fundamentales. La influencia de estos elementos es variada, y al ajustar el porcentaje adecuado, se pueden obtener aceros con propiedades muy diferentes.
         p.mb-0 Es posible fabricar piezas de gran espesor con alta resistencia en su interior, herramientas resistentes a la corrosión, componentes mecánicos que combinan una gran dureza con tenacidad, y mecanismos que conservan su resistencia incluso a altas temperaturas. También se pueden crear moldes de formas complejas que no se deformen ni agrieten durante el tratamiento térmico.
@@ -245,15 +245,15 @@
 
     Separador
 
-    #t_1_2.titulo-segundo.color-acento-contenido
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade")
       h2 1.2 Aplicaciones de los aceros
     
     .fondo-personalizado-1.f2
       .fondo-personalizado-1__contenido
         .row.align-items-center.mb-5
-          .col-lg-8
+          .col-lg-8(data-aos="fade-right")
             p.mb-0 Los aceros se aplican en una amplia variedad de industrias y productos gracias a sus propiedades como resistencia y durabilidad. Se emplean en la construcción de estructuras, maquinaria, automóviles, y elementos de uso cotidiano como utensilios de cocina y electrodomésticos. También son esenciales en la fabricación de componentes industriales, herramientas de corte, piezas de maquinaria pesada, y productos sanitarios y decorativos. Cada tipo de acero, como el acero al carbono, los aceros aleados con cromo, níquel o molibdeno, y los aceros inoxidables, se utiliza según sus características específicas para satisfacer distintas necesidades.
-          .col-lg-4.order-first.order-lg-last
+          .col-lg-4.order-first.order-lg-last(data-aos="fade-left")
             figure.mb-4.mb-lg-0
               img.mx-auto(src="@/assets/curso/temas/15.png",style="max-width: 400px;")
 
@@ -335,25 +335,25 @@
     
     Separador
 
-    #t_1_3.titulo-segundo.color-acento-contenido
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 1.3 Fundiciones
     
     .row
       .col-lg-8
-        .fondo-color-sistema-j.p-4.p-md-5.borde-14.mb-4
+        .fondo-color-sistema-j.p-4.p-md-5.borde-14.mb-4(data-aos="flip-up")
           p.mb-2 Las fundiciones son aleaciones de hierro y carbono, donde el contenido de carbono varía entre 1.76% y 6.67%, aunque las más comunes contienen entre 2.5% y 4.5%. Además del carbono, pueden incluir elementos como silicio, manganeso, fósforo, azufre, oxígeno, cobre, cromo, níquel y molibdeno, entre otros, según el tipo de fundición y su uso.
         p.mb-0 El proceso de obtención de las fundiciones se realiza mediante colada, utilizando como materia prima el arrabio, chatarra de fundición y cantidades variables de chatarra de acero. Este proceso permite obtener piezas de diversos tamaños y complejidad.
-      .col-lg-4.order-first.order-lg-last
+      .col-lg-4.order-first.order-lg-last(data-aos="fade-left")
         figure.mb-4.mb-lg-0
           img.mx-auto(src="@/assets/curso/temas/16.png",style="max-width: 400px;")
     
-    .titulo-decorativo.my-5
+    .titulo-decorativo.my-5(data-aos="fade-left")
       .cont-figura
         img(src="@/assets/curso/temas/img-tit-dec.svg")
       .cont-text 
         h3 Propiedades
 
-    p.mb-5 El punto de fusión de las fundiciones varía entre 1100 y 1450 °C, según su tipo, y su peso específico oscila entre 6.7 y 6.8 gramos por centímetro cúbico.
+    p.mb-5(data-aos="fade-right") El punto de fusión de las fundiciones varía entre 1100 y 1450 °C, según su tipo, y su peso específico oscila entre 6.7 y 6.8 gramos por centímetro cúbico.
 
     .fondo-personalizado-1.bottom-1.top-1.f4
       .fondo-personalizado-1__contenido
@@ -433,13 +433,13 @@
               p.p-4.pb-3 #[b Siderurgia integral]. Cubre todo el proceso, desde la extracción de minerales, lo que genera una mayor cantidad de emisiones y residuos.
               p.p-4.pt-0 #[b Siderurgia no integral]. Utiliza hornos eléctricos y chatarra como materia prima, lo que reduce las emisiones de CO₂.
 
-    p.my-4 Los desafíos ambientales en la siderurgia son: 
+    p.my-4(data-aos="fade-right") Los desafíos ambientales en la siderurgia son: 
 
-    .row.align-items-center.mb-5
-      .col-lg-3
+    .row.align-items-center.mb-5(data-aos="fade-up")
+      .col-lg-3(data-aos="fade-right")
         figure.mb-4.mb-lg-0
           img.mx-auto(src="@/assets/curso/temas/40.png",style="max-width: 296px;")
-      .col-lg-9
+      .col-lg-9(data-aos="fade-left")
         AcordionA.acordion-personalizado-1.mb-0(tipo="a" clase-tarjeta="tarjeta")
           .div(titulo="Uso del agua")
             .ps-md-5.ms-md-3
@@ -451,15 +451,15 @@
             .ps-md-5.ms-md-3
               p La instalación de sistemas de captación de polvo con filtros de mangas es una solución eficaz para minimizar la emisión de partículas contaminantes en la atmósfera.
     
-    p.mb-3 Los avances tecnológicos y sostenibilidad son:
+    p.mb-3(data-aos="fade") Los avances tecnológicos y sostenibilidad son:
 
     .fondo-personalizado-1.f4
       .fondo-personalizado-1__contenido.pt-3.pb-4
         .row.align-items-center.mb-5
-          .col-lg-6
+          .col-lg-6(data-aos="fade-right")
             figure.mb-4.mb-lg-0
               img.mx-auto(src="@/assets/curso/temas/41.png",style="max-width: 610px;")
-          .col-lg-6
+          .col-lg-6(data-aos="fade-right")
             .fondo-color-sistema-o.p-4.borde-17.mb-4
               h4.mb-4 Sustitución de materiales
               p.mb-5 Se trabaja en el desarrollo de métodos para reemplazar el coque por carbón y utilizar mineral en trozos, en lugar de aglomerados de sinterización o pellets, con el fin de reducir el impacto ambiental.
@@ -479,7 +479,7 @@
         
         .row.justify-content-center.mb-5
           .col-lg-10
-            .fondo-color-sistema-m.p-4.px-lg-5.borde-15.sombra-p-2
+            .fondo-color-sistema-m.p-4.px-lg-5.borde-15.sombra-p-2(data-aos="flip-up")
               .row.align-items-center
                 .col-md-auto
                   figure.mb-4.mb-md-0
