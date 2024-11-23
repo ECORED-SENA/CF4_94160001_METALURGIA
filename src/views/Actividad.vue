@@ -26,10 +26,10 @@ export default {
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Menos del 0,5%.', esCorrecta: false },
-            { id: 'b', texto: 'Menos del 2%.', esCorrecta: true },
-            { id: 'c', texto: 'Entre el 3% y el 5%.', esCorrecta: false },
-            { id: 'd', texto: 'Más del 5%.', esCorrecta: false },
+            { id: 'a', texto: 'Menos del 0,5 %.', esCorrecta: false },
+            { id: 'b', texto: 'Menos del 2 %.', esCorrecta: true },
+            { id: 'c', texto: 'Entre el 3 % y el 5 %.', esCorrecta: false },
+            { id: 'd', texto: 'Más del 5 %.', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
@@ -46,8 +46,7 @@ export default {
             { id: 'c', texto: 'Aceros al manganeso.', esCorrecta: false },
             {
               id: 'd',
-              texto:
-                '<b>Aceros al molibdeno - <em>Wolframio</em> (tungsteno)</b>.',
+              texto: 'Aceros al molibdeno - <em>Wolframio</em> (tungsteno).',
               esCorrecta: true,
             },
           ],
@@ -64,7 +63,7 @@ export default {
             { id: 'a', texto: 'Su contenido de cromo.', esCorrecta: false },
             {
               id: 'b',
-              texto: '<b>La forma esférica del grafito.</b>',
+              texto: 'La forma esférica del grafito.',
               esCorrecta: true,
             },
             {
@@ -89,7 +88,7 @@ export default {
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Cromo.', esCorrecta: false },
-            { id: 'b', texto: '<b>Azufre</b>.', esCorrecta: true },
+            { id: 'b', texto: 'Azufre.', esCorrecta: true },
             { id: 'c', texto: 'Níquel.', esCorrecta: false },
             { id: 'd', texto: 'Manganeso.', esCorrecta: false },
           ],
@@ -103,7 +102,7 @@ export default {
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: '<b>Cromo</b>.', esCorrecta: true },
+            { id: 'a', texto: 'Cromo.', esCorrecta: true },
             { id: 'b', texto: 'Silicio.', esCorrecta: false },
             { id: 'c', texto: 'Fósforo.', esCorrecta: false },
             { id: 'd', texto: 'Plomo.', esCorrecta: false },
@@ -124,7 +123,7 @@ export default {
             },
             {
               id: 'b',
-              texto: '<b>Su alta resistencia y baja aleación</b>.',
+              texto: 'Su alta resistencia y baja aleación.',
               esCorrecta: true,
             },
             {
@@ -150,7 +149,7 @@ export default {
           opciones: [
             { id: 'a', texto: 'Níquel.', esCorrecta: false },
             { id: 'b', texto: 'Silicio.', esCorrecta: false },
-            { id: 'c', texto: '<b>Hidrógeno</b>.', esCorrecta: true },
+            { id: 'c', texto: 'Hidrógeno.', esCorrecta: true },
             { id: 'd', texto: 'Manganeso.', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -165,7 +164,7 @@ export default {
           opciones: [
             { id: 'a', texto: 'Fundición gris.', esCorrecta: false },
             { id: 'b', texto: 'Fundición nodular.', esCorrecta: false },
-            { id: 'c', texto: '<b>Fundición blanca.</b>', esCorrecta: true },
+            { id: 'c', texto: 'Fundición blanca.', esCorrecta: true },
             { id: 'd', texto: 'Fundición maleable.', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',

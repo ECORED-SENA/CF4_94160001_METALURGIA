@@ -300,7 +300,7 @@
                 .row.justify-content-center.py-5(titulo="")
                   .col-lg-6.mb-4.mb-lg-0
                     h4.mb-4.mb-lg-5 Aceros inoxidables
-                    p.mb-0 Con un contenido de cromo superior al 12%, se utilizan en el hogar (cubertería y utensilios de cocina), la industria (plantas químicas), la construcción, mobiliario urbano, electrodomésticos y sistemas de escape de vehículos, debido a su resistencia a la oxidación y su superficie brillante. En arquitectura, se utilizan frecuentemente con fines decorativos. También se emplean en la fabricación de instrumentos y equipos quirúrgicos, y para fijar o reemplazar huesos rotos debido a su resistencia a los fluidos corporales.
+                    p.mb-0 Con un contenido de cromo superior al 12 %, se utilizan en el hogar (cubertería y utensilios de cocina), la industria (plantas químicas), la construcción, mobiliario urbano, electrodomésticos y sistemas de escape de vehículos, debido a su resistencia a la oxidación y su superficie brillante. En arquitectura, se utilizan frecuentemente con fines decorativos. También se emplean en la fabricación de instrumentos y equipos quirúrgicos, y para fijar o reemplazar huesos rotos debido a su resistencia a los fluidos corporales.
                   .col-lg-4
                     figure
                       img.mx-auto(src="@/assets/curso/temas/58.png",style="max-width: 408px;")
@@ -341,7 +341,7 @@
     .row
       .col-lg-8
         .fondo-color-sistema-j.p-4.p-md-5.borde-14.mb-4(data-aos="flip-up")
-          p.mb-2 Las fundiciones son aleaciones de hierro y carbono, donde el contenido de carbono varía entre 1.76% y 6.67%, aunque las más comunes contienen entre 2.5% y 4.5%. Además del carbono, pueden incluir elementos como silicio, manganeso, fósforo, azufre, oxígeno, cobre, cromo, níquel y molibdeno, entre otros, según el tipo de fundición y su uso.
+          p.mb-2 Las fundiciones son aleaciones de hierro y carbono, donde el contenido de carbono varía entre 1.76 % y 6.67 %, aunque las más comunes contienen entre 2.5 % y 4.5 %. Además del carbono, pueden incluir elementos como silicio, manganeso, fósforo, azufre, oxígeno, cobre, cromo, níquel y molibdeno, entre otros, según el tipo de fundición y su uso.
         p.mb-0 El proceso de obtención de las fundiciones se realiza mediante colada, utilizando como materia prima el arrabio, chatarra de fundición y cantidades variables de chatarra de acero. Este proceso permite obtener piezas de diversos tamaños y complejidad.
       .col-lg-4.order-first.order-lg-last(data-aos="fade-left")
         figure.mb-4.mb-lg-0
@@ -362,7 +362,7 @@
             .row.justify-content-center
               .col-lg-6
                 h4.mb-4 Fundición blanca
-                p.mb-0 Contiene bajos niveles de carbono (1.8 a 3.6%) en forma de cementita y un mínimo de silicio (0.5 a 2%), además de manganeso, fósforo y azufre. Su alta velocidad de enfriamiento le confiere mayor dureza que la fundición gris. Su punto de fusión oscila entre 1100 y 1200 °C y debe su nombre a la apariencia blanca en la superficie de rotura.
+                p.mb-0 Contiene bajos niveles de carbono (1.8 a 3.6 %) en forma de cementita y un mínimo de silicio (0.5 a 2 %), además de manganeso, fósforo y azufre. Su alta velocidad de enfriamiento le confiere mayor dureza que la fundición gris. Su punto de fusión oscila entre 1100 y 1200 °C y debe su nombre a la apariencia blanca en la superficie de rotura.
               .col-lg-5.order-first.order-lg-last
                 figure.mb-4.mb-lg-0
                   img.mx-auto(src="@/assets/curso/temas/43.png",style="max-width: 457px;")
@@ -370,7 +370,7 @@
             .row.justify-content-center
               .col-lg-6
                 h4.mb-4 Fundición gris
-                p.mb-0 También conocida como hierro fundido o hierro colado, contiene carbono en forma de grafito, con un contenido de 2.5% a 4% de carbono y de 1% a 3% de silicio.
+                p.mb-0 También conocida como hierro fundido o hierro colado, contiene carbono en forma de grafito, con un contenido de 2.5 % a 4 % de carbono y de 1 % a 3 % de silicio.
               .col-lg-5.order-first.order-lg-last
                 figure.mb-4.mb-lg-0
                   img.mx-auto(src="@/assets/curso/temas/45.png",style="max-width: 457px;")
@@ -378,7 +378,7 @@
             .row.justify-content-center
               .col-lg-6
                 h4.mb-4 Fundición nodular
-                p.mb-0 Presenta grafito en forma esférica o nodular. Su composición incluye 3% a 4% de carbono, 1.8% a 2.8% de silicio, 0.15% a 0.9% de manganeso, un máximo de 0.1% de fósforo, y hasta 0.3% de azufre. Se obtiene a partir de fundición gris, con la adición de magnesio o cerio para formar la estructura nodular, sin requerir tratamiento térmico posterior.
+                p.mb-0 Presenta grafito en forma esférica o nodular. Su composición incluye 3 % a 4 % de carbono, 1.8 % a 2.8 % de silicio, 0.15 % a 0.9 % de manganeso, un máximo de 0.1 % de fósforo, y hasta 0.3 % de azufre. Se obtiene a partir de fundición gris, con la adición de magnesio o cerio para formar la estructura nodular, sin requerir tratamiento térmico posterior.
               .col-lg-5.order-first.order-lg-last
                 figure.mb-4.mb-lg-0
                   img.mx-auto(src="@/assets/curso/temas/48.png",style="max-width: 457px;")
@@ -386,7 +386,7 @@
             .row.justify-content-center
               .col-lg-6
                 h4.mb-4 Fundición maleable
-                p.mb-0 Presenta grafito en forma esférica o nodular. Su composición incluye 3% a 4% de carbono, 1.8% a 2.8% de silicio, 0.15% a 0.9% de manganeso, un máximo de 0.1% de fósforo, y hasta 0.3% de azufre. Se obtiene a partir de fundición gris, con la adición de magnesio o cerio para formar la estructura nodular, sin requerir tratamiento térmico posterior.
+                p.mb-0 Se obtiene mediante un tratamiento térmico de recocido aplicado a la fundición blanca, a temperaturas entre 800 y 980 °C durante un periodo prolongado y en una atmósfera neutra. La microestructura resultante es similar a la de la fundición nodular.
               .col-lg-5.order-first.order-lg-last
                 figure.mb-4.mb-lg-0
                   img.mx-auto(src="@/assets/curso/temas/49.png",style="max-width: 457px;")

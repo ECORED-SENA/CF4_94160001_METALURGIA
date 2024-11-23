@@ -106,7 +106,7 @@ export default {
     {
       tema: 'Aceros',
       referencia:
-        'JAES Company Español. (2022). ¿Qué es el acero? Cuando se descubrió, sus tipologías y dónde se utiliza. [Archivo de video] Youtube.',
+        'JAES Company Español. (2022). ¿Qué es el acero? Cuando se descubrió, sus tipologías y dónde se utiliza. [Archivo de video] YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=z4JGBx-85hk&ab_channel=JAESCompanyEspa%C3%B1ol',
@@ -122,21 +122,21 @@ export default {
     {
       tema: 'Influencia de los elementos de aleación en el acero',
       referencia:
-        'Ingeniosos. (2023). Diagrama HIERRO CARBONO 😁 Microestructura de los ACEROS. [Archivo de video] Youtube.',
+        'Ingeniosos. (2023). Diagrama HIERRO CARBONO 😁 Microestructura de los ACEROS. [Archivo de video] YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=HB14cBeCVp8&ab_channel=Ingeniosos',
     },
     {
       tema: 'Aplicaciones de los aceros',
       referencia:
-        'INITUBE. (2023). Tipos de perfiles de acero que existen y sus aplicaciones. [Archivo de video] Youtube.',
+        'INITUBE. (2023). Tipos de perfiles de acero que existen y sus aplicaciones. [Archivo de video] YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=BgR_PY8gjWQ&ab_channel=INITUBE',
     },
     {
       tema: 'Fundiciones',
       referencia:
-        'Metalcomer Ltda. (2016). Proceso de Fundición de Acero - Metalcomer Ltda. [Archivo de video] Youtube.',
+        'Metalcomer Ltda. (2016). Proceso de Fundición de Acero - Metalcomer Ltda. [Archivo de video] YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=iEPX797NZZo&ab_channel=MetalcomerLtda.',
@@ -258,6 +258,11 @@ export default {
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
+        {
+          nombre: 'Luis Gabriel Urueta Álvarez',
+          cargo: 'Validador de recursos educativos digitales',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
         {
           nombre: 'Margarita Marcela Medrano Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
