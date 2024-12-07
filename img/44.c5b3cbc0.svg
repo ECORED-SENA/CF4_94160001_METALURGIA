@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="85" viewBox="0 0 85 85">
+  <g id="Grupo_1113088" data-name="Grupo 1113088" transform="translate(-276.198 -5176)">
+    <rect id="Rectángulo_402555" data-name="Rectángulo 402555" width="85" height="85" transform="translate(276.198 5176)" fill="none"/>
+    <g id="Grupo_1113076" data-name="Grupo 1113076" transform="translate(284 5183.802)">
+      <path id="Trazado_903392" data-name="Trazado 903392" d="M2,56H15.711l-2.68-10.675Z" transform="translate(0.103 4.573)" fill="#9c9c9f"/>
+      <path id="Trazado_903393" data-name="Trazado 903393" d="M2,65.1V57.373H13.032V32h8.825V57.373H32.889V65.1Z" transform="translate(0.103 3.198)" fill="#c7c8cc"/>
+      <path id="Trazado_903394" data-name="Trazado 903394" d="M12,35.1,47.3,2h8.825l-35.3,33.1Z" transform="translate(1.135 0.103)" fill="#66676d"/>
+      <path id="Trazado_903395" data-name="Trazado 903395" d="M21.857,54.063V32H13.032V57.373H2v4.413H32.889V57.373H21.857Z" transform="translate(0.103 3.198)" fill="#d8d9dc"/>
+      <path id="Trazado_903396" data-name="Trazado 903396" d="M55.3,27.373V2L20,35.1V60.468Z" transform="translate(1.96 0.103)" fill="#85868c"/>
+      <path id="Trazado_903397" data-name="Trazado 903397" d="M66.333,25l-35.3,33.1H20L55.3,25Z" transform="translate(1.96 2.476)" fill="#9c9c9f"/>
+      <path id="Trazado_903398" data-name="Trazado 903398" d="M65.3,25,30,58.1v7.722l35.3-33.1Z" transform="translate(2.992 2.476)" fill="#85868c"/>
+      <path id="Trazado_903399" data-name="Trazado 903399" d="M68.293,26.373H58.365V2.1a1.1,1.1,0,0,0-1.1-1.1H48.436a1.1,1.1,0,0,0-.755.3l-35.3,33.1,0,0a1.09,1.09,0,0,0-.353.8V49.427L1.336,59.778l0,0A1.1,1.1,0,0,0,1,60.571v7.722a1.1,1.1,0,0,0,1.1,1.1H32.992a1.093,1.093,0,0,0,.75-.3l0,0L69.048,36a1.1,1.1,0,0,0,.349-.8V27.476a1.1,1.1,0,0,0-1.1-1.1ZM65.5,28.579,32.555,59.468H24.749L57.7,28.579Zm-42.44,7.1,33.1-31.027V27l-33.1,31.028Zm25.81-32.47h5.6L21.523,34.1h-5.6ZM12.032,52.5v6.97h-7.2ZM31.889,67.19H3.206V61.674h9.929a1.1,1.1,0,0,0,1.1-1.1V36.3h6.619v24.27a1.1,1.1,0,0,0,1.1,1.1h9.929ZM34.1,65.747v-4.7l33.1-31.027v4.7Z"/>
+    </g>
+  </g>
+</svg>
