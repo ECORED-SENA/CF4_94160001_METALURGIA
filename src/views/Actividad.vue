@@ -204,7 +204,7 @@ export default {
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Níquel.', esCorrecta: false },
-            { id: 'b', texto: 'Cobre.', esCorrecta: true },
+            { id: 'b', texto: 'Cromo.', esCorrecta: true },
             { id: 'c', texto: 'Boro.', esCorrecta: false },
             { id: 'd', texto: 'Silicio.', esCorrecta: false },
           ],

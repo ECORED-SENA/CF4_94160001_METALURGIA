@@ -132,7 +132,7 @@
                   img.mx-auto(src="@/assets/curso/temas/20.png",style="max-width: 425px;")
             .row.justify-content-center.pt-2
               .col-lg-6.mb-4.mb-lg-0
-                h4.mb-5 Hidrógeno
+                h4.mb-5 Hidrógeno (H)
                 p.mb-0 Provoca fragilidad en el acero, siendo un elemento muy nocivo.
               .col-lg-5
                 figure
@@ -153,7 +153,7 @@
                   img.mx-auto(src="@/assets/curso/temas/23.png",style="max-width: 425px;")
             .row.justify-content-center.pt-2
               .col-lg-6.mb-4.mb-lg-0
-                h4.mb-5 Carbono
+                h4.mb-5 Carbono (C)
                 p.mb-0 Incrementa la resistencia, el límite de elasticidad y la dureza, aunque disminuye la ductilidad y maleabilidad.
               .col-lg-5
                 figure
@@ -285,14 +285,14 @@
                       img.mx-auto(src="@/assets/curso/temas/55.png",style="max-width: 408px;")
                 .row.justify-content-center.py-5(titulo="")
                   .col-lg-6.mb-4.mb-lg-0
-                    h4.mb-4.mb-lg-5 Aceros cromo-molibdeno
+                    h4.mb-4.mb-lg-5 Aceros al cromo-molibdeno
                     p.mb-0 Utilizados en la construcción de maquinaria y en la industria sanitaria.
                   .col-lg-4
                     figure
                       img.mx-auto(src="@/assets/curso/temas/56.png",style="max-width: 408px;")
                 .row.justify-content-center.py-5(titulo="")
                   .col-lg-6.mb-4.mb-lg-0
-                    h4.mb-4.mb-lg-5 Aceros cromo-níquel-molibdeno
+                    h4.mb-4.mb-lg-5 Aceros al cromo-níquel-molibdeno
                     p.mb-0 Son utilizados para fabricar productos como láminas, alambres, varillas, clavos, tornillos, arandelas, abrazaderas, varillas de refuerzo, planchas, secciones estructurales, ejes, engranajes, baldes, cajones, cerraduras, bisagras, tuberías para fluidos no corrosivos, componentes de resistencias eléctricas, reactancias, núcleos de motores eléctricos, armaduras para cables de datos, tubos estructurales, máquinas, piezas móviles de automóviles y camiones, cascos de buques, tubos para bicicletas, alfileres y cerraduras de puertas.
                   .col-lg-4
                     figure
@@ -313,7 +313,7 @@
                       img.mx-auto(src="@/assets/curso/temas/59.png",style="max-width: 408px;")
                 .row.justify-content-center.py-5(titulo="")
                   .col-lg-6.mb-4.mb-lg-0
-                    h4.mb-4.mb-lg-5 Aceros cromo-vanadio
+                    h4.mb-4.mb-lg-5 Aceros al cromo-vanadio
                     p.mb-0 Se emplean en la fabricación de muelles, resortes y bisagras, siendo especialmente comunes en la industria automovilística y ferretera.
                   .col-lg-4
                     figure
@@ -342,7 +342,7 @@
       .col-lg-8
         .fondo-color-sistema-j.p-4.p-md-5.borde-14.mb-4(data-aos="flip-up")
           p.mb-2 Las fundiciones son aleaciones de hierro y carbono, donde el contenido de carbono varía entre 1.76 % y 6.67 %, aunque las más comunes contienen entre 2.5 % y 4.5 %. Además del carbono, pueden incluir elementos como silicio, manganeso, fósforo, azufre, oxígeno, cobre, cromo, níquel y molibdeno, entre otros, según el tipo de fundición y su uso.
-        p.mb-0 El proceso de obtención de las fundiciones se realiza mediante colada, utilizando como materia prima el arrabio, chatarra de fundición y cantidades variables de chatarra de acero. Este proceso permite obtener piezas de diversos tamaños y complejidad.
+        p.mb-0 El proceso de obtención de las fundiciones se realiza mediante colada, utilizando como materia prima el arrabio, chatarra de fundición y cantidades variables de chatarra de acero. Este proceso permite obtener piezas de diversos tamaños y complejidades.
       .col-lg-4.order-first.order-lg-last(data-aos="fade-left")
         figure.mb-4.mb-lg-0
           img.mx-auto(src="@/assets/curso/temas/16.png",style="max-width: 400px;")
